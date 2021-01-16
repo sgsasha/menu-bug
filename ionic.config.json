@@ -1,0 +1,7 @@
+{
+  "name": "menu-bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
